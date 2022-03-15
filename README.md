@@ -6,8 +6,12 @@ The algorithm is in charge of finding the shortest route for mouse flows (green)
 
 ![routing](https://media.giphy.com/media/Ula6PiO5S7jzlNvL2l/giphy.gif)
 
-## REWARD PER EPISODES
+## Reward Per Episodie
 
 As the Router gain experience with the number of episodes, accuracy and rewards begin to rise. It is possible to achieve an accuracy of 90% given the simplicity of the assembly, for a future project it is expected to take into account many more variables, perhaps a DNQ agent and a much larger network topology.
 
 ![Figure 2022-03-15 015334](https://user-images.githubusercontent.com/60159274/158323359-e3d7f5fa-42e8-4d07-90bf-0a29d8112843.png)
+
+## Usage
+
+Install the prerequisites and run `python routing.py` 
